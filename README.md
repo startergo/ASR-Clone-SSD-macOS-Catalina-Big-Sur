@@ -1,4 +1,4 @@
-# ASR-Clone-SSD-macOS-Catalina
+# ASR-Clone-SSD-macOS-Catalina-Big-Sur
 
 ### Workin for Catalina 10.15 and Big Sur 10.16
 
