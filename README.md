@@ -15,7 +15,7 @@
 
 ### Follow every steps in the PDF File [➤ Clone SSD HFS+J.pdf](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina/blob/master/Clone%20SSD%20HFS%2BJ.pdf)
 
-### Download [➤ ASR-Clone-SSD-macOS-Catalina](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina/releases/tag/V1)
+### Download [➤ ASR-Clone-SSD-macOS-Catalina Big Sur](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina-Big-Sur/releases/tag/V1)
 
 ### Important to see this Note: 
 + The source disk must be equal to or smaller than that of the destination! 
