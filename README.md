@@ -1,5 +1,7 @@
 # ASR-Clone-SSD-macOS-Catalina
 
+### Workin for Catalina 10.15 and Big Sur 10.16
+
 - Credit: [Apple Software Restore](https://ss64.com/osx/asr.html)
 - Credit: chris1111
 
