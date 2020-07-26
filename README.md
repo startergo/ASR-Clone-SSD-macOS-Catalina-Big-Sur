@@ -17,7 +17,8 @@
 
 ### Download [➤ ASR-Clone-SSD-macOS-Catalina Big Sur](https://github.com/chris1111/ASR-Clone-SSD-macOS-Catalina-Big-Sur/releases/tag/V1)
 
-### Important to see this Note: 
+### Important to see this Note:
++ You can not clone the main drive because ASR Restore needs to unmount the drive for cloning.
 + The source disk must be equal to or smaller than that of the destination! 
 + Always use lowercase letters to type disc numbers !!
 
